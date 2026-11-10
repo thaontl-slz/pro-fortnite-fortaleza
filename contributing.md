@@ -148,4 +148,4 @@ Usa el botón de la sección de inicio rápido.
 
 ---
 
-*Fortnite · Actualizado 2026-11-08 · Compartido bajo licencia MIT*
+*Fortnite · Actualizado 2026-11-10 · Compartido bajo licencia MIT*
